@@ -16,13 +16,24 @@
 <br>
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Rubka](https://img.shields.io/badge/Rubka-Rubika%20Bot-8E44AD?style=for-the-badge)](https://pypi.org/)
+[![Rubka](https://img.shields.io/badge/Rubka-Rubika%20Bot-8E44AD?style=for-the-badge)](https://pypi.org/project/Rubka/)
+[![Rubika](https://img.shields.io/badge/Platform-Rubika-6C3483?style=for-the-badge)](https://rubika.ir/)
 [![AsyncIO](https://img.shields.io/badge/AsyncIO-Asynchronous-2C3E50?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
-[![JSON](https://img.shields.io/badge/Storage-JSON-003B57?style=for-the-badge)](#-معماری)
-[![Strategy](https://img.shields.io/badge/Genre-Strategy-C0392B?style=for-the-badge)](#-قابلیتها)
+[![JSON](https://img.shields.io/badge/Storage-JSON-003B57?style=for-the-badge)](https://www.json.org/)
+[![Python JSON](https://img.shields.io/badge/json-Python%20stdlib-003B57?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/json.html)
+[![Datetime](https://img.shields.io/badge/datetime-Python%20stdlib-306998?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/datetime.html)
+[![Strategy](https://img.shields.io/badge/Genre-Strategy-C0392B?style=for-the-badge)](https://en.wikipedia.org/wiki/Strategy_video_game)
+[![Diplomacy](https://img.shields.io/badge/Diplomacy-Alliances-1ABC9C?style=for-the-badge)](https://en.wikipedia.org/wiki/Diplomacy)
+[![Economy](https://img.shields.io/badge/Economy-Market-F39C12?style=for-the-badge)](https://en.wikipedia.org/wiki/Virtual_economy)
+[![Ranking](https://img.shields.io/badge/Ranking-Leaderboard-E67E22?style=for-the-badge)](#-key-features)
 [![Persian](https://img.shields.io/badge/Language-Persian-success?style=for-the-badge)](https://en.wikipedia.org/wiki/Persian_language)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)
+[![RTL](https://img.shields.io/badge/Direction-RTL-16A085?style=for-the-badge)](https://en.wikipedia.org/wiki/Right-to-left)
+[![Keypad](https://img.shields.io/badge/UI-Keypad-5D6D7E?style=for-the-badge)](https://pypi.org/project/Rubka/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/license/mit)
+[![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)](https://opensource.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sadra-hatami/World-War-Bot)
+[![Stars](https://img.shields.io/github/stars/sadra-hatami/World-War-Bot?style=for-the-badge)](https://github.com/sadra-hatami/World-War-Bot/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/sadra-hatami/World-War-Bot?style=for-the-badge)](https://github.com/sadra-hatami/World-War-Bot/commits/main)
 
 <br>
 
