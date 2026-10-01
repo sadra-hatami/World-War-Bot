@@ -52,7 +52,6 @@ An asynchronous world-strategy bot for Rubika: players choose a country, build a
 - [Target Audience](#-target-audience)
 - [Roadmap](#️-roadmap)
 - [FAQ](#-faq)
-- [Security Notes](#-security-notes)
 - [Contributing](#-contributing)
 - [Contact](#-contact)
 - [License](#-license)
@@ -240,14 +239,6 @@ Yes, when the `war_game_v3/` folder stays on disk.
 ### Can the token be published?
 
 No. Use an environment variable only.
-
----
-
-# 🔐 Security Notes
-
-- Never commit a live bot token, admin IDs, or a channel ID.
-- If those values are still inside `bot.py`, replace them before the next public push.
-- Keep `war_game_v3/` private. It can contain player records.
 
 ---
 
