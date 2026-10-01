@@ -32,8 +32,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/license/mit)
 [![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)](https://opensource.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sadra-hatami/World-War-Bot)
-[![Stars](https://img.shields.io/github/stars/sadra-hatami/World-War-Bot?style=for-the-badge)](https://github.com/sadra-hatami/World-War-Bot/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/sadra-hatami/World-War-Bot?style=for-the-badge)](https://github.com/sadra-hatami/World-War-Bot/commits/main)
 
 <br>
 
