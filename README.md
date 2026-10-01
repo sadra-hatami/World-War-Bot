@@ -23,7 +23,6 @@ An asynchronous world-strategy bot for Rubika: players choose a country, build a
 [![Persian](https://img.shields.io/badge/Language-Persian-success?style=for-the-badge)](https://en.wikipedia.org/wiki/Persian_language)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 ![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)
-[![Stars](https://img.shields.io/github/stars/sadra-hatami/World-War-Bot?style=for-the-badge)](https://github.com/sadra-hatami/World-War-Bot/stargazers)
 
 <br>
 
